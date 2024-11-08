@@ -1,0 +1,6 @@
+SELECT TOP (1000) [KitapID]
+      ,[KitapAdi]
+      ,[Yazar]
+      ,[YayinYili]
+      ,[SayfaSayisi]
+FROM [KutuphaneYonetim].[dbo].[Kitaplar]
